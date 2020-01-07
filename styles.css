@@ -1,7 +1,6 @@
 *{
   margin:0;
   padding:0;
-  box-sizing: border-box;
 }
 body
 {
@@ -20,9 +19,8 @@ div
 }
 input[type=number]
 {
-  position: relative;
-  width:100% auto;
-  height:100% auto;
+  width:100%;
+  height:100%;
   font-family: sans-serif;
   background:grey;
   color:black;
