@@ -11,6 +11,7 @@ h1{
   color:blue;
   text-align: center;
   font-size: 2cm;
+  margin-bottom: 10px;
 }
 div
 {
@@ -21,6 +22,7 @@ input[type=number]
 {
   width:100%;
   height:100%;
+  outline: none;
   font-family: sans-serif;
   background:grey;
   color:black;
