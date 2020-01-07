@@ -21,12 +21,12 @@ div
 input[type=number]
 {
   position: relative;
-  width:100%;
-  height:100%;
+  width:100% auto;
+  height:100% auto;
   font-family: sans-serif;
   background:grey;
   color:black;
-  font-size: 5cm;
+  font-size: 5cm ;
   text-align: center;
   border: 5px solid black;
 }
